@@ -1,0 +1,237 @@
+{
+  "level": 1,
+  "challenge": false,
+  "infiniteMode": true,
+  "allowOverlappingPaths": false,
+  "rows": 13,
+  "cols": 13,
+  "money": 3500,
+  "music": "mainmenu.ogg",
+  "background": "textures/levels/level1/level1_background.png",
+  "waves": [
+    {
+      "order": 1,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 3,
+          "spawnCooldown": 5,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 5,
+          "spawnCooldown": 4.5,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "order": 3,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 8,
+          "spawnCooldown": 4,
+          "level": 0
+        },
+        {
+          "type": "fast",
+          "count": 2,
+          "spawnCooldown": 4,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "order": 4,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 10,
+          "spawnCooldown": 3.5,
+          "level": 0
+        },
+        {
+          "type": "fast",
+          "count": 5,
+          "spawnCooldown": 3.5,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "order": 5,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 12,
+          "spawnCooldown": 3,
+          "level": 0
+        },
+        {
+          "type": "fast",
+          "count": 8,
+          "spawnCooldown": 3,
+          "level": 0
+        },
+        {
+          "type": "tank",
+          "count": 1,
+          "spawnCooldown": 5,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "order": 6,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 15,
+          "spawnCooldown": 2.5,
+          "level": 0
+        },
+        {
+          "type": "fast",
+          "count": 10,
+          "spawnCooldown": 2.5,
+          "level": 0
+        },
+        {
+          "type": "tank",
+          "count": 2,
+          "spawnCooldown": 4,
+          "level": 0
+        },
+        {
+          "type": "heli",
+          "count": 1,
+          "spawnCooldown": 5,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "order": 7,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 18,
+          "spawnCooldown": 2,
+          "level": 0
+        },
+        {
+          "type": "fast",
+          "count": 12,
+          "spawnCooldown": 2,
+          "level": 0
+        },
+        {
+          "type": "tank",
+          "count": 2,
+          "spawnCooldown": 4,
+          "level": 0
+        },
+        {
+          "type": "heli",
+          "count": 2,
+          "spawnCooldown": 4,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "order": 8,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 20,
+          "spawnCooldown": 1.5,
+          "level": 0
+        },
+        {
+          "type": "fast",
+          "count": 15,
+          "spawnCooldown": 1.5,
+          "level": 0
+        },
+        {
+          "type": "tank",
+          "count": 3,
+          "spawnCooldown": 3,
+          "level": 0
+        },
+        {
+          "type": "heli",
+          "count": 3,
+          "spawnCooldown": 3,
+          "level": 0
+        }
+      ]
+    },
+    {
+      "order": 9,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 22,
+          "spawnCooldown": 1,
+          "level": 1
+        },
+        {
+          "type": "fast",
+          "count": 18,
+          "spawnCooldown": 1,
+          "level": 1
+        },
+        {
+          "type": "tank",
+          "count": 8,
+          "spawnCooldown": 2,
+          "level": 1
+        }
+      ]
+    },
+    {
+      "order": 10,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 25,
+          "spawnCooldown": 0.5,
+          "level": 0
+        },
+        {
+          "type": "fast",
+          "count": 20,
+          "spawnCooldown": 0.5,
+          "level": 0
+        },
+        {
+          "type": "tank",
+          "count": 5,
+          "spawnCooldown": 1,
+          "level": 0
+        },
+        {
+          "type": "tank_boss",
+          "count": 1,
+          "spawnCooldown": 5,
+          "level": 0
+        },
+        {
+          "type": "heli",
+          "count": 5,
+          "spawnCooldown": 8,
+          "level": 0
+        }
+      ]
+    }
+  ]
+}

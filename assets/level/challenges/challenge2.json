@@ -1,0 +1,460 @@
+{
+  "level": 1,
+  "challenge": true,
+  "infiniteMode": false,
+  "allowOverlappingPaths": true,
+  "rows": 5,
+  "cols": 5,
+  "money": 6000,
+  "music": "jumpin.ogg",
+  "background": "textures/levels/level1/level1_background.png",
+
+  "tiles": [
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "left"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "up"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "down"
+    },
+    {
+      "direction": "right"
+    }
+  ],
+
+  "waves": [
+    {
+      "order": 1,
+      "enemies": [
+        {
+          "type": "fast",
+          "count": 10,
+          "spawnCooldown": 1,
+          "level": 1
+        },
+        {
+          "type": "fast",
+          "count": 11,
+          "spawnCooldown": 0.95,
+          "level": 1
+        },
+        {
+          "type": "fast",
+          "count": 12,
+          "spawnCooldown": 0.9,
+          "level": 1
+        },
+        {
+          "type": "fast",
+          "count": 13,
+          "spawnCooldown": 0.85,
+          "level": 1
+        },
+        {
+          "type": "fast",
+          "count": 14,
+          "spawnCooldown": 0.8,
+          "level": 1
+        },
+        {
+          "type": "fast",
+          "count": 15,
+          "spawnCooldown": 0.75,
+          "level": 2
+        },
+        {
+          "type": "fast",
+          "count": 16,
+          "spawnCooldown": 0.7,
+          "level": 2
+        },
+        {
+          "type": "fast",
+          "count": 17,
+          "spawnCooldown": 0.65,
+          "level": 2
+        },
+        {
+          "type": "fast",
+          "count": 18,
+          "spawnCooldown": 0.6,
+          "level": 2
+        },
+        {
+          "type": "fast",
+          "count": 19,
+          "spawnCooldown": 0.55,
+          "level": 2
+        },
+        {
+          "type": "fast",
+          "count": 20,
+          "spawnCooldown": 0.5,
+          "level": 3
+        },
+        {
+          "type": "fast",
+          "count": 21,
+          "spawnCooldown": 0.45,
+          "level": 3
+        },
+        {
+          "type": "fast",
+          "count": 22,
+          "spawnCooldown": 0.4,
+          "level": 3
+        },
+        {
+          "type": "fast",
+          "count": 23,
+          "spawnCooldown": 0.35,
+          "level": 3
+        },
+        {
+          "type": "fast",
+          "count": 24,
+          "spawnCooldown": 0.3,
+          "level": 3
+        },
+        {
+          "type": "fast",
+          "count": 25,
+          "spawnCooldown": 0.25,
+          "level": 4
+        },
+        {
+          "type": "fast",
+          "count": 26,
+          "spawnCooldown": 0.2,
+          "level": 4
+        },
+        {
+          "type": "fast",
+          "count": 27,
+          "spawnCooldown": 0.15,
+          "level": 4
+        },
+        {
+          "type": "fast",
+          "count": 28,
+          "spawnCooldown": 0.1,
+          "level": 4
+        },
+        {
+          "type": "fast",
+          "count": 29,
+          "spawnCooldown": 0.05,
+          "level": 4
+        },
+        {
+          "type": "fast",
+          "count": 30,
+          "spawnCooldown": 0.01,
+          "level": 5
+        },
+        {
+          "type": "fast",
+          "count": 31,
+          "spawnCooldown": 0.01,
+          "level": 5
+        },
+        {
+          "type": "fast",
+          "count": 32,
+          "spawnCooldown": 0.01,
+          "level": 5
+        },
+        {
+          "type": "fast",
+          "count": 33,
+          "spawnCooldown": 0.01,
+          "level": 5
+        },
+        {
+          "type": "fast",
+          "count": 34,
+          "spawnCooldown": 0.01,
+          "level": 5
+        },
+        {
+          "type": "fast",
+          "count": 35,
+          "spawnCooldown": 0.01,
+          "level": 6
+        },
+        {
+          "type": "fast",
+          "count": 36,
+          "spawnCooldown": 0.01,
+          "level": 6
+        },
+        {
+          "type": "fast",
+          "count": 37,
+          "spawnCooldown": 0.01,
+          "level": 6
+        },
+        {
+          "type": "fast",
+          "count": 38,
+          "spawnCooldown": 0.01,
+          "level": 6
+        },
+        {
+          "type": "fast",
+          "count": 39,
+          "spawnCooldown": 0.01,
+          "level": 6
+        },
+        {
+          "type": "fast",
+          "count": 40,
+          "spawnCooldown": 0.01,
+          "level": 7
+        },
+        {
+          "type": "fast",
+          "count": 41,
+          "spawnCooldown": 0.01,
+          "level": 7
+        },
+        {
+          "type": "fast",
+          "count": 42,
+          "spawnCooldown": 0.01,
+          "level": 7
+        },
+        {
+          "type": "fast",
+          "count": 43,
+          "spawnCooldown": 0.01,
+          "level": 7
+        },
+        {
+          "type": "fast",
+          "count": 44,
+          "spawnCooldown": 0.01,
+          "level": 7
+        },
+        {
+          "type": "fast",
+          "count": 45,
+          "spawnCooldown": 0.01,
+          "level": 8
+        },
+        {
+          "type": "fast",
+          "count": 46,
+          "spawnCooldown": 0.01,
+          "level": 8
+        },
+        {
+          "type": "fast",
+          "count": 47,
+          "spawnCooldown": 0.01,
+          "level": 8
+        },
+        {
+          "type": "fast",
+          "count": 48,
+          "spawnCooldown": 0.01,
+          "level": 8
+        },
+        {
+          "type": "fast",
+          "count": 49,
+          "spawnCooldown": 0.01,
+          "level": 8
+        },
+        {
+          "type": "fast",
+          "count": 50,
+          "spawnCooldown": 0.01,
+          "level": 9
+        },
+        {
+          "type": "fast",
+          "count": 51,
+          "spawnCooldown": 0.01,
+          "level": 9
+        },
+        {
+          "type": "fast",
+          "count": 52,
+          "spawnCooldown": 0.01,
+          "level": 9
+        },
+        {
+          "type": "fast",
+          "count": 53,
+          "spawnCooldown": 0.01,
+          "level": 9
+        },
+        {
+          "type": "fast",
+          "count": 54,
+          "spawnCooldown": 0.01,
+          "level": 9
+        },
+        {
+          "type": "fast",
+            "count": 255,
+            "spawnCooldown": 0.01,
+            "level": 10
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "level": 1,
+  "challenge": true,
+  "infiniteMode": false,
+  "allowOverlappingPaths": false,
+  "rows": 11,
+  "cols": 11,
+  "money": 3600,
+  "music": "marching_on.ogg",
+  "background": "textures/levels/level1/level1_background.png",
+
+  "tiles": [
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    },
+    {
+      "direction": "right"
+    }
+  ],
+
+  "waves": [
+    {
+      "order": 1,
+      "enemies": [
+        {
+          "type": "standard",
+          "count": 10,
+          "spawnCooldown": 2,
+          "level": 0
+        },
+        {
+          "type": "standard",
+          "count": 11,
+          "spawnCooldown": 1.9,
+          "level": 0
+        },
+        {
+          "type": "standard",
+          "count": 12,
+          "spawnCooldown": 1.8,
+          "level": 0
+        },
+        {
+          "type": "standard",
+          "count": 13,
+          "spawnCooldown": 1.7,
+          "level": 0
+        },
+        {
+          "type": "standard",
+          "count": 14,
+          "spawnCooldown": 1.6,
+          "level": 0
+        },
+        {
+          "type": "standard",
+          "count": 15,
+          "spawnCooldown": 1.5,
+          "level": 0
+        },
+        {
+          "type": "standard",
+          "count": 16,
+          "spawnCooldown": 1.4,
+          "level": 1
+        },
+        {
+          "type": "standard",
+          "count": 17,
+          "spawnCooldown": 1.3,
+          "level": 1
+        },
+        {
+          "type": "standard",
+          "count": 18,
+          "spawnCooldown": 1.2,
+          "level": 1
+        },
+        {
+          "type": "standard",
+          "count": 19,
+          "spawnCooldown": 1.1,
+          "level": 1
+        },
+        {
+          "type": "standard",
+          "count": 20,
+          "spawnCooldown": 1,
+          "level": 1
+        },
+        {
+          "type": "standard",
+          "count": 21,
+          "spawnCooldown": 0.9,
+          "level": 2
+        },
+        {
+          "type": "standard",
+          "count": 22,
+          "spawnCooldown": 0.8,
+          "level": 2
+        },
+        {
+          "type": "standard",
+          "count": 23,
+          "spawnCooldown": 0.7,
+          "level": 2
+        },
+        {
+          "type": "standard",
+          "count": 24,
+          "spawnCooldown": 0.6,
+          "level": 2
+        },
+        {
+          "type": "standard",
+          "count": 25,
+          "spawnCooldown": 0.5,
+          "level": 2
+        },
+        {
+          "type": "standard",
+          "count": 26,
+          "spawnCooldown": 0.4,
+          "level": 3
+        },
+        {
+          "type": "standard",
+          "count": 27,
+          "spawnCooldown": 0.3,
+          "level": 3
+        },
+        {
+          "type": "standard",
+          "count": 28,
+          "spawnCooldown": 0.2,
+          "level": 3
+        },
+        {
+          "type": "standard",
+          "count": 29,
+          "spawnCooldown": 0.1,
+          "level": 3
+        },
+        {
+          "type": "standard",
+          "count": 30,
+          "spawnCooldown": 0,
+          "level": 4
+        }
+      ]
+    }
+  ]
+}
